@@ -2,7 +2,7 @@
 
 I'm Anna. 
 
-A novice frontend who is developer seeking a company that values professional growth and fosters a collaborative environment where I can continue to enhance my expertise.
+A novice frontend developer  who is seeking a company that values professional growth and fosters a collaborative environment where I can continue to enhance my expertise.
 
 :mortar_board: I keep improve my skills in JavaScript, TypeScript, SCSS, Jest, Webpack and Angular
 
